@@ -10,6 +10,6 @@
     "express": "^4.19.2",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "kkiapay": "^1.0.10"
+    "@kkiapay-org/nodejs-sdk": "^1.0.7"
   }
 }
